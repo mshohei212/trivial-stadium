@@ -1,0 +1,2 @@
+Stat Id,Event Property Name,Stat Display Name,Stat Description,Icon File Name,Good value direction,Unit
+progression_stat,currentProgress,Level Reached,The highest level reached by the player,icon_level.png,INCREASING,

@@ -1,0 +1,2 @@
+Stat Id,Event Name,Event Property Name,Aggregation Type,Stat Display Name,Stat Description,Filter Property,Filter Operator,Filter Value,Is Competitive,Min limit,Max limit,Icon File Name,Good value direction,Unit
+best_match_time,match_won,time_taken,MIN,Best Match Time,Fastest match won,,,,true,1,3600,icon_time.png,DECREASING,

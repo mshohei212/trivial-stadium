@@ -1,0 +1,15 @@
+Event Name,Property Name,Property Type
+progressUpdate,wave_number,INT64
+battle_started,wave_number,INT64
+battle_started,enemy_name,STRING
+battle_won,wave_number,INT64
+battle_won,remaining_hp,INT64
+monster_defeated,enemy_name,STRING
+monster_defeated,wave_number,INT64
+damage_dealt,damage_amount,INT64
+damage_dealt,skill_name,STRING
+damage_dealt,is_critical,BOOL
+critical_hit_landed,damage_amount,INT64
+critical_hit_landed,skill_name,STRING
+potion_used,healed_amount,INT64
+potion_used,remaining_potions,INT64

@@ -1,0 +1,6 @@
+Stat Id,Event Name,Event Property Name,Aggregation Type,Stat Display Name,Stat Description,Filter Property,Filter Operator,Filter Value,Is Competitive,Min limit,Max limit,Icon File Name,Good value direction,Unit
+max_wave_reached,battle_won,wave_number,MAX,Highest Wave Reached,Highest battle wave reached by the player,,,,true,1,9999,icon_wave.png,INCREASING,
+total_damage_dealt,damage_dealt,damage_amount,SUM,Total Damage Dealt,Total cumulative damage dealt to monsters,,,,true,1,9999999,icon_damage.png,INCREASING,
+max_critical_damage,critical_hit_landed,damage_amount,MAX,Max Critical Damage,Maximum damage dealt in a single critical hit,,,,true,1,999999,icon_crit.png,INCREASING,
+best_victory_hp,battle_won,remaining_hp,MAX,Best Victory HP,Highest remaining HP at battle victory,,,,true,1,99999,icon_hp.png,INCREASING,
+total_healed_hp,potion_used,healed_amount,SUM,Total HP Healed,Total cumulative HP recovered using potions,,,,false,,,icon_potion.png,INCREASING,

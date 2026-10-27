@@ -1,0 +1,24 @@
+=== English (en-US) ===
+
+[App Name (Max 30 chars)]
+Trivial Stadium
+
+[Short Description (Max 80 chars)]
+Turn-based tactical arena RPG! Master skills and defeat fierce waves.
+
+[Full Description (Max 4000 chars)]
+Trivial Stadium is a fast-paced, turn-based tactical arena battle RPG where you face increasingly powerful waves of monsters in gladiatorial combat.
+
+Manage your HP and limited recovery potions wisely to survive each encounter and claim victory in the stadium.
+
+Key Combat Features:
+- Normal Attack: Deal reliable damage with a chance to land a critical hit.
+- Heavy Strike: Unleash a devastating blow with a boosted critical hit rate.
+- Use Potion: Use your limited supply of potions at the right moment to recover HP and turn the tide of battle.
+
+Highlights:
+- Quick, strategic turn-based battles designed for pick-up-and-play sessions
+- Progressive monster difficulty across multiple arena waves
+- Integrated with Google Play Games Services to track your combat milestones and Game Stats in real time
+
+Step into the arena and prove your tactical mastery in Trivial Stadium!
